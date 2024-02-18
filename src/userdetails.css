@@ -1,0 +1,19 @@
+
+
+.userdetails{
+    border: 5px solid rgb(163, 255, 227);
+    border-radius: 10px;
+    padding: 10px;
+    position: fixed;
+    right: 15vw;
+    width: 35vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.userdetails img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
